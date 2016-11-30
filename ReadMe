@@ -1,5 +1,6 @@
  基础正则
- 
+    运行代码 在test module中
+    
     网址：http://baike.baidu.com/link?url=tI10mLFzZ1Lyvq6RSYnCa04je-A2WZKEGIX7BilnJHDSyqg91Gk--dcnaksPyoqr1-Apt2r6l59dYWBevefIpJEojE1X29zfDBofUHHmanDWoMTsmkTICV9b1hPTbz82s1xYPaMLhIzp0z8AWVdkEa
 
     基础语法 "^([]{})([]{})([]{})$"
