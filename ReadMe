@@ -1,8 +1,10 @@
  基础正则
     运行代码 在test module中
     
-    网址：http://baike.baidu.com/link?url=tI10mLFzZ1Lyvq6RSYnCa04je-A2WZKEGIX7BilnJHDSyqg91Gk--dcnaksPyoqr1-Apt2r6l59dYWBevefIpJEojE1X29zfDBofUHHmanDWoMTsmkTICV9b1hPTbz82s1xYPaMLhIzp0z8AWVdkEa
-
+    网址：
+    http://baike.baidu.com/link?url=tI10mLFzZ1Lyvq6RSYnCa04je-A2WZKEGIX7BilnJHDSyqg91Gk--dcnaksPyoqr1-Apt2r6l59dYWBevefIpJEojE1X29zfDBofUHHmanDWoMTsmkTICV9b1hPTbz82s1xYPaMLhIzp0z8AWVdkEa
+    http://blog.csdn.net/dadahai87/article/details/47775785
+    
     基础语法 "^([]{})([]{})([]{})$"
     正则字符串 = "开始（[包含内容]{长度}）（[包含内容]{长度}）（[包含内容]{长度}）结束"
 
