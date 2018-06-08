@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity
 
     // 本地更改提交测试
     // second change
-    // 服务器改动
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -52,4 +51,11 @@ public class MainActivity extends AppCompatActivity
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        
+        if (id == R.id.action_settings)
+        {
+            return true;
+        }
+
+        return super.onOptionsItemSelected(item);
+    }
+}
